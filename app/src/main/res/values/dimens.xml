@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textViewWidth">135dp</dimen>
+    <dimen name="textViewHeight">100dp</dimen>
+    <dimen name="editTextWidth">200dp</dimen>
+    <dimen name="editTextHeight">50dp</dimen>
+    <dimen name="buttonWidth">225dp</dimen>
+    <dimen name="buttonHeight">60dp</dimen>
+    <dimen name="SmallerButtonWidth">35dp</dimen>
+    <dimen name="SmallerButtonHeight">30dp</dimen>
+    <dimen name="PaddingTextOne">20dp</dimen>
+    <dimen name="PaddingTextTwo">40dp</dimen>
+    <dimen name="PaddingButton">10dp</dimen>
+    <dimen name="MarginOne">100dp</dimen>
+    <dimen name="MarginTwo">200dp</dimen>
+    <dimen name="MarginButton">25dp</dimen>
+</resources>
